@@ -16,47 +16,6 @@ I enjoy figuring out how things should work, connecting technologies, and turnin
 - 💡 **Interests:** AI engineering, product development, systems design, and creative technology.
 - 🌍 **Based in:** Kenya.
 
----
-
-# 🚀 Featured Projects
-
-A few things I've been bringing to life.
-
-### 🏆 [ATLAS](https://atlastab.com)
-**A tournament operating system for competitive public speaking.**
-
-A platform designed to manage public speaking tournaments, from participant registration to running competitions.
-
-- **Status:** Completed
-- **Website:** [atlastab.com](https://atlastab.com)
-
-### 📋 [Task Thing](https://github.com/J4v4ni/TaskThing)
-**A minimalist task manager.**
-
-A simple local-first productivity dual system application designed to make managing everyday tasks less complicated.
-
-- **Status:** Completed
-- **Repository:** [GitHub](https://github.com/J4v4ni/TaskThing)
-
-### 🗓️ [Day OS](https://github.com/J4v4ni/DayOS)
-**Your day, organised in one place.**
-
-A productivity system bringing together tasks, meetings, projects, and a Pomodoro timer for your time blocking.
-
-- **Status:** In development
-- **Repository:** [GitHub](https://github.com/J4v4ni/DayOS)
-
----
-
-# ⚙️ What I Do
-
-| Area | What I work on |
-|---|---|
-| AI Automation | Designing workflows that eliminate repetitive work. |
-| AI Agents | Building intelligent agents that can reason, use tools, and execute tasks. |
-| Product Building | Turning ideas into functional applications using AI-assisted development. |
-| Systems Engineering | Connecting technologies, services, and processes into useful systems. |
-| Creative Technology | Exploring the intersection of design, software, and artificial intelligence. |
 
 ---
 
@@ -118,6 +77,50 @@ These are technologies I use across my projects and AI-assisted development envi
 
 ---
 
+
+# 🚀 Featured Projects
+
+A few things I've been bringing to life.
+
+### 🏆 [ATLAS](https://atlastab.com)
+**A tournament operating system for competitive public speaking.**
+
+A platform designed to manage public speaking tournaments, from participant registration to running competitions.
+
+- **Status:** Completed
+- **Website:** [atlastab.com](https://atlastab.com)
+
+### 📋 [Task Thing](https://github.com/J4v4ni/TaskThing)
+**A minimalist task manager.**
+
+A simple local-first productivity dual system application designed to make managing everyday tasks less complicated.
+
+- **Status:** Completed
+- **Repository:** [GitHub](https://github.com/J4v4ni/TaskThing)
+
+### 🗓️ [Day OS](https://github.com/J4v4ni/DayOS)
+**Your day, organised in one place.**
+
+A productivity system bringing together tasks, meetings, projects, and a Pomodoro timer for your time blocking.
+
+- **Status:** In development
+- **Repository:** [GitHub](https://github.com/J4v4ni/DayOS)
+
+---
+
+# ⚙️ What I Do
+
+| Area | What I work on |
+|---|---|
+| AI Automation | Designing workflows that eliminate repetitive work. |
+| AI Agents | Building intelligent agents that can reason, use tools, and execute tasks. |
+| Product Building | Turning ideas into functional applications using AI-assisted development. |
+| Systems Engineering | Connecting technologies, services, and processes into useful systems. |
+| Creative Technology | Exploring the intersection of design, software, and artificial intelligence. |
+
+
+---
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=J4v4ni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -156,4 +159,3 @@ Whether you're a developer, founder, entrepreneur, AI enthusiast, or just someon
 
 <sub>Making computers do things. One system at a time.</sub>
 
-[![](https://komarev.com/ghpvc/?username=J4v4ni&icon=0&color=0)](https://visitcount.itsvg.in)
